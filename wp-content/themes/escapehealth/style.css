@@ -1,0 +1,27 @@
+/*
+Theme Name: EscapeHealth
+Theme URI: #
+Author: Jamie Thompson
+Author URI: #
+Description: New theme for EscapeHealth
+Tags: 
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.9
+Requires PHP: 7.0
+License: GNU General Public License v3 or Later
+License URI: https://www.gnu.org/licenses/gpl.html
+Text Domain: cryptoplus
+*/
+
+main#content {
+}
+main#content header.header {
+    background: #00B2A5;
+    color: #fff;
+    text-align: center;
+    padding: 12px 12px 10px;
+    margin-bottom: 40px;
+}
+.page-template-default .site-header{position:static ;}
+.page-template-default .copyright-text{color: #000;}

@@ -1,0 +1,17 @@
+@media (max-width: 991px) {
+  nav.navigation {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: #262626;
+    top: 72px;
+    display: none; }
+
+  .site-headder-wrap {
+    position: relative; }
+
+  .menu-toggle i {
+    font-size: 26px;
+    cursor: pointer; } }
+
+/*# sourceMappingURL=responsive.css.map */
